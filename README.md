@@ -1,4 +1,4 @@
-# 2048
+# 2048 (https://fa22.datastructur.es/materials/proj/proj0/)
 
 ## Description:
 - The game is played on a grid of squares, each of which can either be empty or contain a tile bearing an integer–a power of 2 greater than or equal to 2. Before the first move, the application adds a tile containing either 2 or 4 to a random square on the initially empty board. The choice of 2 or 4 is random, with a 75% chance of choosing 2 and a 25% chance of choosing 4.
